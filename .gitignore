@@ -1,2 +1,5 @@
 #密码
 password.txt
+
+#字节码文件
+*.class
